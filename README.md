@@ -3,5 +3,5 @@
 
 Please check your attendance here:
 
-Please enter your answers here: 
+Please enter your challenge answers here: 
 https://forms.gle/ifL4H4p8Vd1PPHKD8
