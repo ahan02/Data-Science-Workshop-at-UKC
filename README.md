@@ -4,5 +4,5 @@
 Please check in for your attendance:
 https://forms.gle/wfECocdiw2WwU544A
 
-Please enter your challenge answers: 
+Please enter your challenge problem answers: 
 https://forms.gle/ifL4H4p8Vd1PPHKD8
