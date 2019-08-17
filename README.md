@@ -1,8 +1,8 @@
 # Data-Science-Hackathon-Workshop-at-UKC-2019
 ## Introduction to Data Science
 
-Please check your attendance here:
+Please check in for your attendance:
 https://forms.gle/wfECocdiw2WwU544A
 
-Please enter your challenge answers here: 
+Please enter your challenge answers: 
 https://forms.gle/ifL4H4p8Vd1PPHKD8
