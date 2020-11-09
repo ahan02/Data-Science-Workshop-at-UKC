@@ -1,5 +1,5 @@
-# Data-Science-Hackathon-Workshop-at-UKC-2019
-## Introduction to Machine Learning
+# Data-Science-Workshop-at-UKC-2020
+## Special topic overview: CNN
 
 Please check in for your attendance:
 https://forms.gle/vP8G3VrZAEfprvfH7
